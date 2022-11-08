@@ -1,13 +1,4 @@
-<html>
-<style>
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
-</style>
-  
-<body>
+
 <h1 align="center">Hi 👋, I'm Navneet Verma</h1>
 <h3 align="center">A passionate Python enthusiast from India</h3>
 
@@ -51,5 +42,4 @@ img {
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetvermanav&show_icons=true&locale=en" alt="navneetvermanav" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetvermanav&" alt="navneetvermanav" /></p>
-  </body>
-  </html>
+ 
