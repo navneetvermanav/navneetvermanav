@@ -1,6 +1,10 @@
-
-
-preview
+<style>
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+</style>
 <h1 align="center">Hi 👋, I'm Navneet Verma</h1>
 <h3 align="center">A passionate Python enthusiast from India</h3>
 
