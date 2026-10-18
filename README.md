@@ -1,45 +1,142 @@
+<div align="center">
 
-<h1 align="center">Hi 👋, I'm Navneet Verma</h1>
-<h3 align="center">A passionate Python enthusiast from India</h3>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0e75b6,50:6f42c1,100:e4405f&height=230&section=header&text=Navneet%20Verma&fontSize=58&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Python%20Enthusiast%20%E2%80%A2%20CSE%20Student%20%E2%80%A2%20Creator&descAlignY=62&descSize=18" width="100%" alt="banner" />
 
-<img src="https://www.springboard.com/blog/wp-content/uploads/2022/06/what-does-a-coder-do-2022-career-guide-1.jpg" alt="Flowers in Chania" width="350" height="200">
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=6F42C1&center=true&vCenter=true&width=620&lines=Hi+%F0%9F%91%8B+I'm+Navneet+Verma;Python+Enthusiast+%F0%9F%90%8D+from+India+%F0%9F%87%AE%F0%9F%87%B3;Learning+Computer+Science+Engineering+%F0%9F%8E%93;Let's+build+something+awesome+%F0%9F%9A%80" alt="typing" />
+</a>
 
+<br/>
 
+<img src="https://komarev.com/ghpvc/?username=navneetvermanav&label=Profile%20views&color=6f42c1&style=for-the-badge" alt="views" />
+<img src="https://img.shields.io/github/followers/navneetvermanav?logo=github&style=for-the-badge&color=0e75b6" alt="followers" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=navneetvermanav&label=Profile%20views&color=0e75b6&style=flat" alt="navneetvermanav" /> </p>
+</div>
 
-<p align="left"> <a href="https://twitter.com/navneetvermanav" target="blank"><img src="https://img.shields.io/twitter/follow/navneetvermanav?logo=twitter&style=for-the-badge" alt="navneetvermanav" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Computer Science Engineering**
+## 🔗 Find Me Everywhere
 
-- 📝 I regularly write articles on [https://wordpress.com/me](https://wordpress.com/me)
+<div align="center">
 
-- 📫 How to reach me **navneetverma.nv01@gmail.com**
+<table>
+<tr>
+<td align="center" width="25%">
+<a href="https://linkedin.com/in/navneet-verma-570870198">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /><br/>
+<sub><b>navneet-verma</b></sub><br/><sub>Let's network 🤝</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://instagram.com/navneetverma_nav">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /><br/>
+<sub><b>@navneetverma_nav</b></sub><br/><sub>Life & updates 📸</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="https://twitter.com/navneetvermanav">
+<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /><br/>
+<sub><b>@navneetvermanav</b></sub><br/><sub>Tech thoughts 🐦</sub>
+</a>
+</td>
+<td align="center" width="25%">
+<a href="mailto:navneetverma.nv01@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /><br/>
+<sub><b>navneetverma.nv01</b></sub><br/><sub>Drop me a mail ✉️</sub>
+</a>
+</td>
+</tr>
+<tr>
+<td align="center">
+<a href="https://medium.com/@navneetverma.nv01">
+<img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" alt="Medium" /><br/>
+<sub><b>@navneetverma.nv01</b></sub><br/><sub>Articles ✍️</sub>
+</a>
+</td>
+<td align="center">
+<a href="https://dev.to/navneetverma_nav">
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /><br/>
+<sub><b>@navneetverma_nav</b></sub><br/><sub>Dev blogs 👨‍💻</sub>
+</a>
+</td>
+<td align="center">
+<a href="https://www.leetcode.com/user8219yj">
+<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /><br/>
+<sub><b>user8219yj</b></sub><br/><sub>Problem solving 🧠</sub>
+</a>
+</td>
+<td align="center">
+<a href="https://auth.geeksforgeeks.org/user/navneetvermanv01">
+<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GFG" /><br/>
+<sub><b>navneetvermanv01</b></sub><br/><sub>DSA practice 💡</sub>
+</a>
+</td>
+</tr>
+</table>
 
-### Blogs posts
+</div>
+
+---
+
+## 🪪 About Me
+
+```python
+class Navneet:
+    name      = "Navneet Verma"
+    from_     = "India 🇮🇳"
+    studying  = "Computer Science Engineering"
+    loves     = ["Python 🐍", "Problem Solving 🧠", "Writing Blogs ✍️"]
+    learning  = ["DSA", "Web Development", "Google Cloud ☁️"]
+    reach_me  = "navneetverma.nv01@gmail.com"
+
+    def motto(self):
+        return "Code. Learn. Repeat. 🔁"
+```
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=py,c,js,html,css,bootstrap,react,mongodb,mysql,gcp,git,figma,ai,ps&perline=7" alt="skills" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=navneetvermanav&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=navneetvermanav&layout=compact&theme=tokyonight&hide_border=true" alt="langs" />
+<br/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=navneetvermanav&theme=tokyonight&hide_border=true" alt="streak" />
+</div>
+
+---
+
+## ✍️ Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://dev.to/@navneetverma_nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="@navneetverma_nav" height="30" width="40" /></a>
-<a href="https://twitter.com/navneetvermanav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="navneetvermanav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/navneet-verma-570870198" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="navneet-verma-570870198" height="30" width="40" /></a>
-<a href="https://instagram.com/@navneetverma_nav" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@navneetverma_nav" height="30" width="40" /></a>
-<a href="https://medium.com/@navneetverma.nv01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@navneetverma.nv01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/user8219yj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="user8219yj" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/navneetvermanv01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="navneetvermanv01" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+<div align="center">
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/https://www.buymeacoffee.com/navneetverma"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/navneetverma" /></a></p><br><br>
+### 💌 Got an idea or a project? Let's talk!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=navneetvermanav&show_icons=true&locale=en&layout=compact" alt="navneetvermanav" /></p>
+<a href="mailto:navneetverma.nv01@gmail.com">
+<img src="https://img.shields.io/badge/Say%20Hello-navneetverma.nv01%40gmail.com-6f42c1?style=for-the-badge&logo=gmail&logoColor=white" alt="hello" />
+</a>
+<br/><br/>
+<a href="https://www.buymeacoffee.com/navneetverma">
+<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" alt="Buy me a coffee" />
+</a>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=navneetvermanav&show_icons=true&locale=en" alt="navneetvermanav" /></p>
+<br/>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=navneetvermanav&" alt="navneetvermanav" /></p>
- 
+<i>⭐ If you like my work, give my repos a star. Thanks for visiting!</i>
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:e4405f,50:6f42c1,100:0e75b6&height=110&section=footer" width="100%" alt="footer" />
