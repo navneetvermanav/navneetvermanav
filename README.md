@@ -3,7 +3,13 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Navneet%20Verma&fontSize=56&fontColor=00e5ff&animation=fadeIn&fontAlignY=42&desc=Data%20Engineer%20%E2%80%A2%20Building%20Pipelines%20That%20Scale&descAlignY=65&descSize=20&descColor=ffffff" width="100%" alt="banner" />
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Navneet+Verma;Data+Engineer+from+India+%F0%9F%87%AE%F0%9F%87%B3;I+turn+raw+data+into+reliable+pipelines+%E2%9A%99%EF%B8%8F;Python+%7C+SQL+%7C+Spark+%7C+Cloud" alt="typing" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=Hi+%F0%9F%91%8B+I'm+Navneet+Verma;Data+Engineer+%F0%9F%92%BB;I+turn+raw+data+into+reliable+pipelines+%E2%9A%99%EF%B8%8F;Python+%7C+SQL+%7C+Spark+%7C+Cloud" alt="typing" />
+</a>
+
+<!-- Animated location -->
+<br/>
+<a href="https://git.io/typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&duration=2500&pause=1200&color=FF9933&center=true&vCenter=true&width=450&height=35&lines=%F0%9F%93%8D+Location%3A+India+%F0%9F%87%AE%F0%9F%87%B3;%F0%9F%8C%8F+Building+data+pipelines+from+India;%F0%9F%93%8D+Location%3A+India+%F0%9F%87%AE%F0%9F%87%B3" alt="location" />
 </a>
 
 <br/>
@@ -92,18 +98,6 @@ class DataEngineer:
 
     def motto(self):
         return "Ingest. Transform. Serve. Repeat. 🔁"
-```
-
----
-
-## 🚰 How I Build Data Pipelines
-
-```text
- ┌──────────┐    ┌──────────┐    ┌────────────┐    ┌──────────┐    ┌───────────┐
- │  SOURCE  │ ─▶ │  INGEST  │ ─▶ │ TRANSFORM  │ ─▶ │  STORE   │ ─▶ │   SERVE   │
- │ APIs/DBs │    │ Kafka /  │    │ Spark /    │    │ Warehouse│    │ Dashboards│
- │ Files    │    │ Airflow  │    │ SQL / dbt  │    │ / Lake   │    │ & ML      │
- └──────────┘    └──────────┘    └────────────┘    └──────────┘    └───────────┘
 ```
 
 ---
